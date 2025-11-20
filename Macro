@@ -1,0 +1,8 @@
+javascript:(function(){
+  document.addEventListener('keydown', function(e){
+    if(e.key === '`'){   // tylda / backtick
+      document.execCommand("selectAll");
+      document.execCommand("paste");
+    }
+  });
+})();
