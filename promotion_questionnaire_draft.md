@@ -20,6 +20,16 @@ I can work independently, troubleshoot issues when needed, and efficiently navig
 
 ---
 
+## Team Collaboration / Buddy Initiative
+
+I actively support team collaboration by assisting other team members whenever needed and sharing knowledge related to workflows, tools, and daily operations.
+
+I also participate in the Buddy Initiative, helping new team members adapt more smoothly to project environments, internal processes, and communication practices.
+
+I believe maintaining a supportive and cooperative work environment contributes positively to overall team efficiency and knowledge sharing.
+
+---
+
 ## Collaboration / Why Me
 
 Over time, I have developed a strong understanding of the project workflows, internal tooling, and day-to-day operational requirements.
